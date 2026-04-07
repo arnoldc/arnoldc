@@ -1,10 +1,6 @@
- _   _      _ _       
-| | | | ___| | | ___  
-| |_| |/ _ \ | |/ _ \ 
-|  _  |  __/ | | (_) |
-|_| |_|\___|_|_|\___/ 
+💻⚡ H E L L O ⚡💻 
 
 
 # 👋 Hi, I'm Arnold — Mobile Developer (React Native)
 
-Focused on **React Native**, **TypeScript**, and building **mobile apps 
+Focused on **React Native**, **TypeScript**, and building **mobile apps** 
